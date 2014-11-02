@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  gorev: MyString
+  aciklama: MyText
+  tamamlandi: false
+
+two:
+  gorev: MyString
+  aciklama: MyText
+  tamamlandi: false
